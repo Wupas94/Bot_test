@@ -15,7 +15,6 @@ load_dotenv()
 # !!! Lista ID serwerów, na których bot ma działać !!!
 # Używamy teraz listy ID liczbowych
 GUILD_IDS_LIST = [
-    1021373051272704130,
     1364669344180863088
     # Dodaj więcej ID serwerów tutaj, jeśli potrzebujesz
 ]
