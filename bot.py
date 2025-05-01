@@ -31,6 +31,7 @@ ITEMS_PER_PAGE = 7 # Używane w /historia? (nie widać implementacji paginacji)
 # !!! Jeśli ID się różnią, funkcjonalność bota będzie BŁĘDNA na niektórych serwerach !!!
 class Role:
     # Role administracyjne
+    Wupas = 1366519926692515962
     NADZOR_PRACY = 1031216295905079336
     WLASCICIEL_FIRMY = 1021376435530760233
     ZASTEPCA_SZEFA = 1094378926333243434
